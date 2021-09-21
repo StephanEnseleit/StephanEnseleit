@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StephanEnseleit
-- 👀 I’m interested in Python, C/C++, Mirkocontroller Programming
+- 👀 I’m interested in Python, C/C++, Microcontroller Programming
 - 🌱 I’m currently learning High Performance Computer Programming
 - 📫 How to reach me: stephanenseleit.com
 
