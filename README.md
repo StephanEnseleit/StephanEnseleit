@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StephanEnseleit
-- 👀 I’m interested in Python, C/C++, Microcontroller Programming
-- 🌱 I’m currently learning High Performance Computer Programming
+- 👀 I’m interested in Python, C/C++, High-Performance Computing, Web Development
+- 🌱 I’m currently employed as a Web Developer using Vue and Typescript
 - 📫 How to reach me: https://www.linkedin.com/in/stephan-enseleit/
 
 <!---
